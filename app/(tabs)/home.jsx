@@ -11,8 +11,8 @@ const Home = () => {
       <Header />
       {/* Slider  */}
       <Slider />
-      {/* Categories */}
-      
+      {/* Categoriess */}
+
     </SafeAreaView>
   );
 };
